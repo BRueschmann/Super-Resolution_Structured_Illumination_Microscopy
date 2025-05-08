@@ -4,6 +4,6 @@ This repository contains the files and code for the University of St Andrews Mod
 Directory Structure:
 ----------------------------------------------------------------------
 * report_mi_p3.pdf.   (pdf report explaining all steps and results in detail)
-* final_notebook_mi_p3.ipynb   (Jupyter notebook displaying algorithms)
+* notebook_mi_p3.ipynb   (Jupyter notebook displaying algorithms)
 * example_image.png   (Image used to run and test all code)
 * Requirements.txt   (Python packages needed to run the code)
